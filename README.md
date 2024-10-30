@@ -200,6 +200,10 @@
  
  * [Machine learning + neuroscience = biologically feasible computing | Benjamin Migliori | TEDxSanDiego](https://www.youtube.com/watch?v=iPdKMs9cEAs)
 
+ * [Neuromorphic Computing from the Computer Science Perspective: Algorithms and Applications | iCAS Lab](https://www.youtube.com/watch?v=PWOr1_85zeg) 
+
+ * [Lectures on Synaptic Plasticity and STDP | Gerstner Lab](https://www.youtube.com/watch?v=YM3eUm36cIA&list=PL7SYVykTNxXYHxySDd4L6eYecNgPaAaOe)
+
 # Neuromorphic Computing Tools, Libraries, and Frameworks
 [Back to the Top](https://github.com/mikeroyal/Neuromorphic-Computing-Guide#table-of-contents)
 
